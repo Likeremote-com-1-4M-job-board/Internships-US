@@ -1,0 +1,29 @@
+name: New internship
+description: An internship that is missing from the list
+title: "New internship: "
+labels: ["new-internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. Nothing here edits the table: the list is rebuilt from likeremote.com every 6 hours. An approved link goes to the board's queue, and the role shows up once the board has it.
+  - type: input
+    id: link
+    attributes:
+      label: Link to the posting
+      description: The page where the internship is advertised.
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+    validations:
+      required: false

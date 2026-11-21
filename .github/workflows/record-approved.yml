@@ -1,0 +1,42 @@
+name: Record an approved issue
+
+# A maintainer adds the "approved" label to a form issue. This only writes the submitted link to
+# submissions/approved.jsonl for likeremote.com to pick up. It never edits README.md,
+# README-Closed.md or listings.json: the list is rebuilt from the board, not by hand.
+# The issue text is read from the event file by a script; it is never placed in a shell command.
+
+on:
+  issues:
+    types: [labeled]
+
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  record:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Record the link
+        run: node scripts/record-submission.mjs
+
+      - name: Commit only if something was recorded
+        run: |
+          git config user.name "Likeremote list bot"
+          git config user.email "noreply@likeremote.com"
+          git add submissions/approved.jsonl
+          if git diff --cached --quiet; then
+            echo "Nothing recorded."
+            exit 0
+          fi
+          git commit -m "Record an approved link"
+          git pull --rebase
+          git push

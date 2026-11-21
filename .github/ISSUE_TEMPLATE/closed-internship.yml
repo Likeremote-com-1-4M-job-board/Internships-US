@@ -1,0 +1,22 @@
+name: Closed internship
+description: A role in the list that is no longer open
+title: "Closed internship: "
+labels: ["closed-internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. Nothing here edits the table: a closed role leaves the list when the board closes it.
+  - type: input
+    id: link
+    attributes:
+      label: Link to the role (its likeremote.com page or the posting)
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: How do you know it is closed?
+    validations:
+      required: false

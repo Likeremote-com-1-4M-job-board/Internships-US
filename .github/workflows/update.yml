@@ -1,0 +1,45 @@
+name: Update the list
+
+# Rebuilds README.md, one README-<Category>.md per category, README-Closed.md and listings.json from the public likeremote.com feed.
+# No keys: it downloads a public file and uses only the default GITHUB_TOKEN to push the result.
+# It writes nothing when the rows have not changed since the last run.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+# One writer at a time, shared with record-approved.yml, so two pushes never race.
+concurrency:
+  group: repo-writes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - name: Check out
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+
+      - name: Rebuild from the public feed
+        run: node scripts/generate.mjs
+
+      - name: Check listings.json and the README sizes
+        run: node scripts/check-json.mjs
+
+      - name: Commit only if something changed
+        run: |
+          git config user.name "Likeremote list bot"
+          git config user.email "noreply@likeremote.com"
+          git add README.md 'README-*.md' listings.json
+          if git diff --cached --quiet; then
+            echo "No change, nothing to commit."
+            exit 0
+          fi
+          git commit -m "Update the list"
+          git pull --rebase
+          git push

@@ -1,0 +1,40 @@
+{
+	"owner": "Likeremote-com-1-4M-job-board",
+	"repo": "Internships-US",
+	"campaign": "internships-us",
+	"title": "Internships in the US",
+	"bannerAlt": "Find your next internship on likeremote.com",
+	"intro": "Every US internship we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.",
+	"sibling": {
+		"repo": "Internships-Europe",
+		"prompt": "In Europe? See"
+	},
+	"regions": [
+		{
+			"key": "us",
+			"heading": "United States",
+			"flag": "🇺🇸"
+		}
+	],
+	"extension": {
+		"alt": "The Likeremote Chrome extension: one tap sends the application",
+		"line": "The free Likeremote Chrome extension fills the application from your resume and logs it in one tracker.",
+		"storeUrl": "https://chromewebstore.google.com/detail/mafigepobbpcbplggdjcjeabpjafcnig"
+	},
+	"about": {
+		"description": "Internships in the US, every industry, newest first. Updated every 6 hours.",
+		"homepage": "https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us",
+		"topics": [
+			"internships",
+			"jobs",
+			"students"
+		]
+	},
+	"countries": [
+		{
+			"flag": "🇺🇸",
+			"label": "United States",
+			"country": "US"
+		}
+	]
+}

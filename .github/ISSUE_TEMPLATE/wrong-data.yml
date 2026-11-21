@@ -1,0 +1,22 @@
+name: Wrong data
+description: A row shows the wrong company, place, pay or work mode
+title: "Wrong data: "
+labels: ["wrong-data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. Nothing here edits the table: the row is fixed on likeremote.com and the list follows.
+  - type: input
+    id: link
+    attributes:
+      label: Link to the role (its likeremote.com page or the posting)
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong, and what is right?
+    validations:
+      required: true

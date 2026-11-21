@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Browse every internship on likeremote.com
+    url: https://likeremote.com/internships?utm_source=github&utm_medium=issue&utm_campaign=issue-form
+    about: Filters for country, work mode and more.
