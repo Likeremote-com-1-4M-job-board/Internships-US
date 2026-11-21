@@ -21,17 +21,41 @@ function location(job) {
 	return `${f ? `${f} ` : ""}${esc(place)}`.trim();
 }
 
+/** Long names wrap onto short lines (about 18 characters), so the column stays narrow and Role and Apply get the room. */
+export function companyCell(name, width = 18) {
+	const lines = [];
+	for (const word of String(name).split(" ")) {
+		const last = lines.at(-1);
+		if (last !== undefined && (last + " " + word).length <= width) lines[lines.length - 1] = `${last} ${word}`;
+		else lines.push(word);
+	}
+	return `**${lines.map(esc).join("<br>")}**`;
+}
+
+const UNITS = { hour: "/hr", month: "/mo", year: "/yr", week: "/wk", day: "/day" };
+const k = (n) => (n >= 10_000 ? `${Math.round(n / 1000)}k` : n >= 1000 ? `${(Math.round(n / 100) / 10).toString()}k` : Number.isInteger(n) ? String(n) : n.toFixed(2));
+
+/** "$94,320 – $106,110" -> "$94k–106k", "$13.57 – $18.55 / hour" -> "$13.57–18.55/hr". Anything else stays as it is. */
+export function shortSalary(text) {
+	const m = /^(From |Up to )?([^\d\s]*?|[A-Z]{3} )(\d[\d,]*(?:\.\d+)?)(?: – \2?(\d[\d,]*(?:\.\d+)?))?(?: \/ (hour|month|year|week|day))?$/.exec(String(text).trim());
+	if (!m) return text;
+	const num = (v) => k(Number(v.replace(/,/g, "")));
+	const cur = m[2];
+	const range = m[4] ? `${num(m[3])}–${num(m[4])}` : num(m[3]);
+	return `${m[1] ?? ""}${cur}${range}${m[5] ? UNITS[m[5]] : ""}`;
+}
+
 /** One table row. `today` is the feed's own date, so output depends on the data only. */
 export function rowFor(config, job, today, { withApply = true } = {}) {
 	const isNew = !job.locked && daysBetween(job.posted, today) <= 1;
 	const apply = job.locked
 		? "🔒"
-		: `[<img src="assets/apply.svg" alt="Apply" height="24">](${trackedUrl(config, `/jobs/${job.slug}`)})`;
+		: `[<img src="assets/apply.svg" alt="Apply" width="118" height="36">](${trackedUrl(config, `/jobs/${job.slug}`)})`;
 	const cells = [
-		`**${esc(job.company)}**`,
+		companyCell(job.company),
 		`${isNew ? "🆕 " : ""}${esc(job.title)}`,
 		location(job),
-		job.salary ? esc(job.salary) : "—",
+		job.salary ? esc(shortSalary(job.salary)) : "—",
 		job.work_mode ?? "—",
 		shortDate(job.posted, today),
 	];
@@ -130,6 +154,7 @@ function linkRow(config) {
 		...(config.countries ?? []).map((c) => link(board(`&country=${c.country}`), `${c.flag} ${escAttr(c.label)}`)),
 		link(escAttr(trackedUrl(config, "/sign-up")), "Get new internships by email"),
 		link(store, "Add the Chrome extension"),
+		link(escAttr(repoUrl(config, config.sibling.repo)), escAttr(config.sibling.label)),
 	];
 	return `<p align="center">${items.join(" &nbsp;·&nbsp; ")}</p>`;
 }
@@ -257,7 +282,7 @@ export function renderCategory(config, category, data, meta) {
 	const head = [
 		`# ${category.emoji} ${category.label} ${config.title.replace(/^Internships/, "internships")}`,
 		"",
-		`[Back to all categories](README.md) · [${config.title} on likeremote.com](${trackedUrl(config, "/internships")})`,
+		`[Back to all categories](README.md) · [${config.title} on likeremote.com](${trackedUrl(config, "/internships")}) · [${config.sibling.label}](${repoUrl(config, config.sibling.repo)})`,
 		"",
 		categoryNav(category),
 		"",

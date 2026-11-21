@@ -7,7 +7,8 @@
 	"intro": "Every US internship we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.",
 	"sibling": {
 		"repo": "Internships-Europe",
-		"prompt": "In Europe? See"
+		"prompt": "In Europe? See",
+		"label": "🇪🇺 Internships in Europe (GitHub)"
 	},
 	"regions": [
 		{
