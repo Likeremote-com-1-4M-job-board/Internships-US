@@ -1,20 +1,119 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-US",
-		"generated_at": "2026-11-22T20:58:59.400Z",
-		"hash": "575f8ab655b060a4c6c285de2b0468592ea6bcc1b559f7341e715bac0af90978",
-		"open_total": 15034,
+		"generated_at": "2026-11-23T07:33:07.591Z",
+		"hash": "b9b831358b29e3268372be2bfb757c99ccb90cd06a3ab77da6d07dc7017e74ea",
+		"open_total": 14802,
 		"regions": {
 			"us": {
-				"feed_count": 15034,
+				"feed_count": 14802,
 				"listed": 1000,
-				"closed": 43
+				"closed": 50
 			}
 		}
 	},
 	"regions": {
 		"us": {
 			"open": [
+				{
+					"slug": "commercial-internship-4ac228f8",
+					"company": "Cell Signaling Technology",
+					"title": "Commercial Internship",
+					"city": "Danvers, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "lab-internship-81e5ebb1",
+					"company": "Cell Signaling Technology",
+					"title": "Lab Internship",
+					"city": "Danvers, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "stage-extracurriculare-kiabi-arese-98452179",
+					"company": "Kiabi",
+					"title": "STAGE EXTRACURRICULARE KIABI ARESE",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "€800",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "inventory-control-intern-onsite-position-in-valparaiso-in-717ddf87",
+					"company": "Continental Group Sector ContiTech",
+					"title": "Inventory Control Intern - Onsite Position in Valparaiso, IN",
+					"city": "Valparaiso, IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "operations"
+				},
+				{
+					"slug": "design-student-intern-e159a3a1",
+					"company": "CannonDesign",
+					"title": "Design Student Intern",
+					"city": "Chicago, IL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$21.25 – $26.25",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
+				{
+					"slug": "spring-summer-2027-masters-ai-rack-cluster-thermal-de743648",
+					"company": "AMD",
+					"title": "Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op",
+					"city": "Austin, TX",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-22",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "wild-rock-golf-maintenance-internship-summer-2027-6083616c",
+					"company": "Wilderness Hotel and Resort Inc",
+					"title": "Wild Rock Golf Maintenance Internship Summer 2027",
+					"city": "Wisconsin Dells, WI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$17 – $18",
+					"posted": "2026-11-22",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "firmware-embedded-software-engineer-intern-summer-2027-79d58453",
+					"company": "Neros Technologies",
+					"title": "Firmware/Embedded Software Engineer Intern - Summer 2027",
+					"city": "Torrance, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$55",
+					"posted": "2026-11-22",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "pharmacy-intern-84eabfb0",
+					"company": "Yoke's Fresh Markets",
+					"title": "Pharmacy Intern",
+					"city": "Missoula, MT",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$18.75 – $19.75",
+					"posted": "2026-11-22",
+					"category": "other"
+				},
 				{
 					"slug": "intern-project-tapestry-62cf0405",
 					"company": "University of Texas Health Science Center at Houston",
@@ -401,6 +500,17 @@
 					"category": "other"
 				},
 				{
+					"slug": "blizzard-2027-summer-internships-mba-adf3731e",
+					"company": "Blizzard Entertainment",
+					"title": "Blizzard 2027 Summer Internships - MBA",
+					"city": "Irvine, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-21",
+					"category": "other"
+				},
+				{
 					"slug": "internship-mechanical-engineer-c61f4462",
 					"company": "ASML",
 					"title": "Internship - Mechanical Engineer",
@@ -509,17 +619,6 @@
 					"salary": null,
 					"posted": "2026-11-21",
 					"category": "operations"
-				},
-				{
-					"slug": "founders-associate-intern-6764f2c3",
-					"company": "Clera",
-					"title": "Founders Associate Intern",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$80,000 – $110,000",
-					"posted": "2026-11-21",
-					"category": "other"
 				},
 				{
 					"slug": "spring-2027-ai-data-analytics-intern-98e04c3a",
@@ -1210,6 +1309,17 @@
 					"city": null,
 					"country_code": "US",
 					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
+					"slug": "engineer-intern-summer-2027-f16f74af",
+					"company": "FedEx",
+					"title": "Engineer Intern (Summer 2027)",
+					"city": "Memphis, TN",
+					"country_code": "US",
+					"work_mode": "Hybrid",
 					"salary": null,
 					"posted": "2026-11-20",
 					"category": "other"
@@ -2293,6 +2403,28 @@
 					"category": "other"
 				},
 				{
+					"slug": "engineering-intern-summer-2027-e0983051",
+					"company": "FedEx",
+					"title": "Engineering Intern - Summer 2027",
+					"city": "Orlando, FL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
+					"slug": "engineering-co-op-summer-2027-77e7285e",
+					"company": "FedEx",
+					"title": "Engineering Co-op – Summer 2027",
+					"city": "Grove City, OH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
 					"slug": "corporate-communications-content-intern-fdec754d",
 					"company": "JACOBS DOUWE EGBERTS",
 					"title": "Corporate Communications & Content Intern",
@@ -2302,6 +2434,28 @@
 					"salary": "€9.90",
 					"posted": "2026-11-20",
 					"category": "marketing"
+				},
+				{
+					"slug": "engineering-data-analytics-intern-summer-2027-e7fd86d9",
+					"company": "FedEx",
+					"title": "Engineering Data Analytics Intern - Summer 2027",
+					"city": "Lewisberry, PA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
+					"slug": "engineering-co-op-summer-2027-9d527510",
+					"company": "FedEx",
+					"title": "Engineering Co-op Summer 2027",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
 				},
 				{
 					"slug": "marketing-internship-2027-prediction-markets-marketing-86c2834d",
@@ -3239,6 +3393,39 @@
 					"category": "software-engineering"
 				},
 				{
+					"slug": "contract-analyst-student-intern-dean-s-office-wake-forest-2fcdb5e8",
+					"company": "Aurora Medical Group, Inc.",
+					"title": "Contract Analyst Student Intern - Dean's Office - Wake Forest Univeristy School of Medicine (WFUSM)",
+					"city": "Winston-Salem, NC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
+					"slug": "financial-analyst-student-intern-dean-s-office-wake-forest-c903f485",
+					"company": "Aurora Medical Group, Inc.",
+					"title": "Financial Analyst Student Intern - Dean's Office - Wake Forest University School of Medicine",
+					"city": "Winston-Salem, NC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "finance"
+				},
+				{
+					"slug": "inpatient-pharmacy-intern-cfba4dc5",
+					"company": "Aurora Medical Group, Inc.",
+					"title": "Inpatient Pharmacy Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other"
+				},
+				{
 					"slug": "ge-vernova-scs-facility-maintenance-internship-summer-2026-d77cf117",
 					"company": "GE Vernova",
 					"title": "GE Vernova - SCS - Facility Maintenance Internship Summer 2026",
@@ -3844,17 +4031,6 @@
 					"category": "hardware-engineering"
 				},
 				{
-					"slug": "credit-analyst-internship-chicago-il-summer-2027-0cfe26f4",
-					"company": "Bank of Montreal",
-					"title": "Credit Analyst Internship - Chicago, IL (Summer 2027)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "finance"
-				},
-				{
 					"slug": "intern-bioinformatics-eeb0b318",
 					"company": "LabCorp",
 					"title": "Intern - Bioinformatics",
@@ -4139,17 +4315,6 @@
 					"salary": "$25.40 – $29.00",
 					"posted": "2026-11-20",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "operations-management-leadership-program-internship-03b54951",
-					"company": "GE Healthcare",
-					"title": "Operations Management Leadership Program - Internship",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "operations"
 				},
 				{
 					"slug": "manufacturing-engineer-intern-f777bcb2",
@@ -6033,17 +6198,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "design-verification-graduate-intern-2027-d26dd147",
-					"company": "620 Intel Israel (74) Limited",
-					"title": "Design Verification Graduate Intern 2027",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other"
-				},
-				{
 					"slug": "signal-integrity-engineering-intern-c71822e7",
 					"company": "620 Intel Israel (74) Limited",
 					"title": "Signal Integrity Engineering Intern",
@@ -7056,17 +7210,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "talent-program-payer-health-systems-oncology-intern-r413129-92c97ba0",
-					"company": "Intervet International Gm",
-					"title": "2027 Future Talent Program - Payer & Health Systems Oncology - Intern",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other"
-				},
-				{
 					"slug": "2027-summer-commercial-bank-internship-denver-credit-r-41397-a77c036d",
 					"company": "KeyBank National Association",
 					"title": "2027 Summer Commercial Bank Internship - Denver (Credit)",
@@ -7076,17 +7219,6 @@
 					"salary": null,
 					"posted": "2026-11-20",
 					"category": "finance"
-				},
-				{
-					"slug": "erations-management-leadership-program-internship-r4046211-1-bda246c6",
-					"company": "GE Medical Systems Polska Sp. z o.o.",
-					"title": "Operations Management Leadership Program - Internship",
-					"city": null,
-					"country_code": "US",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "operations"
 				},
 				{
 					"slug": "ob-schofield-wi-engineering-co-op-opportuntities-wi-jr104346-58f1a3fb",
@@ -7186,17 +7318,6 @@
 					"salary": null,
 					"posted": "2026-11-20",
 					"category": "operations"
-				},
-				{
-					"slug": "san-jose-xmlname-2027-intern-adobe-sales-academy-bdr-r170977-7092e461",
-					"company": "Adobe",
-					"title": "2027 Intern - Adobe Sales Academy BDR",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other"
 				},
 				{
 					"slug": "on-oh-tax-and-audit-intern-spring-2027-akron-canton-r15943-1-01a0805e",
@@ -10893,130 +11014,93 @@
 					"salary": null,
 					"posted": "2026-11-19",
 					"category": "other"
-				},
-				{
-					"slug": "electrical-engineer-intern-1210f75c",
-					"company": "HPE",
-					"title": "Electrical Engineer Intern",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "product-line-manager-intern-photonics-optical-networking-b550d15f",
-					"company": "HPE",
-					"title": "Product Line Manager Intern – Photonics & Optical Networking",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "ai-engineering-technical-intern-dceeb481",
-					"company": "HPE",
-					"title": "AI Engineering Technical Intern",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "software-security-intern-summer-2027-ed92bec5",
-					"company": "RTX",
-					"title": "Software Security Intern (Summer 2027)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "software-engineering-intern-summer-2027-8e95821f",
-					"company": "RTX",
-					"title": "Software Engineering Intern (Summer 2027)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "life-cycle-systems-engineer-intern-onsite-169e8170",
-					"company": "RTX",
-					"title": "Life Cycle Systems Engineer Intern (Onsite)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "other"
-				},
-				{
-					"slug": "mechanical-engineer-intern-summer-2027-onsite-6623e469",
-					"company": "RTX",
-					"title": "Mechanical Engineer Intern Summer 2027 (Onsite)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "systems-engineering-intern-spring-2027-107f778e",
-					"company": "RTX",
-					"title": "Systems Engineering Intern (Spring 2027)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "other"
-				},
-				{
-					"slug": "banking-commercial-banking-summer-analyst-san-francisco-us-6c4d51b2",
-					"company": "Citibank, N.A. United Kingdom",
-					"title": "Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "other"
-				},
-				{
-					"slug": "ge-vernova-systems-architecture-intern-2027-2bc29bb7",
-					"company": "Gevernova",
-					"title": "GE Vernova Systems Architecture Intern – 2027",
-					"city": null,
-					"country_code": "US",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "other"
-				},
-				{
-					"slug": "ge-vernova-pcs-sourcing-procurement-internship-summer-2027-7b5754c4",
-					"company": "Gevernova",
-					"title": "GE Vernova PCS Sourcing & Procurement Internship - Summer 2027",
-					"city": null,
-					"country_code": "US",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-19",
-					"category": "operations"
 				}
 			],
 			"closed": [
+				{
+					"slug": "founders-associate-intern-6764f2c3",
+					"company": "Clera",
+					"title": "Founders Associate Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$80,000 – $110,000",
+					"posted": "2026-11-21",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "credit-analyst-internship-chicago-il-summer-2027-0cfe26f4",
+					"company": "Bank of Montreal",
+					"title": "Credit Analyst Internship - Chicago, IL (Summer 2027)",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "finance",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "operations-management-leadership-program-internship-03b54951",
+					"company": "GE Healthcare",
+					"title": "Operations Management Leadership Program - Internship",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "operations",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "design-verification-graduate-intern-2027-d26dd147",
+					"company": "620 Intel Israel (74) Limited",
+					"title": "Design Verification Graduate Intern 2027",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "talent-program-payer-health-systems-oncology-intern-r413129-92c97ba0",
+					"company": "Intervet International Gm",
+					"title": "2027 Future Talent Program - Payer & Health Systems Oncology - Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "erations-management-leadership-program-internship-r4046211-1-bda246c6",
+					"company": "GE Medical Systems Polska Sp. z o.o.",
+					"title": "Operations Management Leadership Program - Internship",
+					"city": null,
+					"country_code": "US",
+					"work_mode": null,
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "operations",
+					"closed_at": "2026-11-23"
+				},
+				{
+					"slug": "san-jose-xmlname-2027-intern-adobe-sales-academy-bdr-r170977-7092e461",
+					"company": "Adobe",
+					"title": "2027 Intern - Adobe Sales Academy BDR",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-20",
+					"category": "other",
+					"closed_at": "2026-11-23"
+				},
 				{
 					"slug": "electrical-engineering-intern-power-systems-0afa567b",
 					"company": "LayerZero Power Systems, LLC.",

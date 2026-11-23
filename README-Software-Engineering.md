@@ -4,14 +4,16 @@
 
 💻 **Software Engineering** · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-107 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+106 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇺🇸 United States
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Fabri** | 🆕 DevOps, IT &amp; Cybersecurity Intern | 🇺🇸 United States | — | On-site | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/devops-it-cybersecurity-intern-ac411e00?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **SAS** | 🆕 Summer 2027 - AI Governance &amp; Policy Intern | 🇺🇸 United States | $15–30 | — | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/summer-2027-ai-governance-policy-intern-33753983?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **AMD** | 🆕 Spring/Summer 2027 Masters AI Rack &amp; Cluster Thermal Engineering Co-Op | 🇺🇸 Austin, TX | — | Hybrid | Nov 22 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/spring-summer-2027-masters-ai-rack-cluster-thermal-de743648?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **Neros Technologies** | 🆕 Firmware/Embedded Software Engineer Intern - Summer 2027 | 🇺🇸 Torrance, CA | $55 | On-site | Nov 22 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/firmware-embedded-software-engineer-intern-summer-2027-79d58453?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **Fabri** | DevOps, IT &amp; Cybersecurity Intern | 🇺🇸 United States | — | On-site | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/devops-it-cybersecurity-intern-ac411e00?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **SAS** | Summer 2027 - AI Governance &amp; Policy Intern | 🇺🇸 United States | $15–30 | — | Nov 21 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/summer-2027-ai-governance-policy-intern-33753983?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **onsemi** | Spring 2027 - AI &amp; Data Analytics Intern | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/spring-2027-ai-data-analytics-intern-98e04c3a?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **ServiceNow** | Security Software Engineer Intern | 🇺🇸 United States | $58.96 | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/security-software-engineer-intern-36ff3d9b?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Garmin** | Software Engineering Intern (Web/Mobile) | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-web-mobile-033d9d71?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
@@ -119,8 +121,5 @@
 | **Cadence** | Software Engineering Intern - Circuit Simulation infrastructure | 🇺🇸 United States | — | — | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-circuit-simulation-a963e737?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Leidos** | Software Developer Intern | 🇺🇸 United States | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-developer-intern-434c76f7?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Neogen** | Software or Firmware Engineer Intern | 🇺🇸 United States | — | — | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-or-firmware-engineer-intern-15f7c732?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **HPE** | AI Engineering Technical Intern | 🇺🇸 United States | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/ai-engineering-technical-intern-dceeb481?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **RTX** | Software Security Intern (Summer 2027) | 🇺🇸 United States | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-security-intern-summer-2027-ed92bec5?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **RTX** | Software Engineering Intern (Summer 2027) | 🇺🇸 United States | — | On-site | Nov 19 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/software-engineering-intern-summer-2027-8e95821f?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 
 Not what you are looking for? [See every category](README.md), or [browse all internships on likeremote.com](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us).
