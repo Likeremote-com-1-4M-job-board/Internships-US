@@ -4,7 +4,7 @@
 
 💻 [Software Engineering](README-Software-Engineering.md) · ⚙️ **Operations & Management** · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 [Hardware Engineering](README-Hardware-Engineering.md) · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-43 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+45 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇺🇸 United States
 
@@ -54,6 +54,8 @@
 | **Rockwell<br>Automation** | Co-op, Process Standardization &amp; Delivery Automation (LCS) | 🇺🇸 United States | — | Hybrid | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/co-op-process-standardization-delivery-automation-lcs-e63c1b05?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Corning** | Technology Operations - AI &amp; Automation Intern - Summer 2027 | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/technology-operations-ai-automation-intern-summer-2027-5d203821?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Federal Reserve<br>Bank of Richmond** | 2027 Summer Internship Program - Facilities Operations Intern | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/2027-summer-internship-program-facilities-operations-intern-abc504e3?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **The Charles Stark<br>Draper Laboratory,<br>Inc.** | Operational Analysis Intern (Summer 2027) | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/operational-analysis-intern-summer-2027-6a797aa2?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **Philips** | Co-op - Procurement Engineering - Murrysville, PA - January-June 2027 | 🇺🇸 United States | — | On-site | Nov 20 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/co-op-procurement-engineering-murrysville-pa-january-june-2d8b7d14?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **GE Healthcare** | Operations Management Leadership Program - Internship | 🇺🇸 Remote | — | Remote | Nov 20 | 🔒 |
 | **GE Medical Systems<br>Polska Sp. z o.o.** | Operations Management Leadership Program - Internship | 🇺🇸 United States | — | — | Nov 20 | 🔒 |
 | **Enterprise** | Management Trainee Internship - Summer 2027 | 🇺🇸 United States | $17 | — | Nov 20 | 🔒 |
