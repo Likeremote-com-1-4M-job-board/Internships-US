@@ -1,12 +1,12 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-US",
-		"generated_at": "2026-11-25T08:29:06.151Z",
-		"hash": "3b623729ed767f5ae0bc6561ce8161b94193c63f7745ec093db12760e0d96597",
-		"open_total": 14801,
+		"generated_at": "2026-11-25T21:39:52.044Z",
+		"hash": "eeb9dcd7ebd6588b7efe401cb6360010de196ec3340db5858fe227602be4eca9",
+		"open_total": 14798,
 		"regions": {
 			"us": {
-				"feed_count": 14801,
+				"feed_count": 14798,
 				"listed": 1000,
 				"closed": 105
 			}

@@ -21,7 +21,7 @@
 
 ## Internships in the US
 
-[![open internships](https://img.shields.io/badge/open_internships-14%2C801-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-US?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-US?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us)
+[![open internships](https://img.shields.io/badge/open_internships-14%2C798-1d5a91)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us) [![updated](https://img.shields.io/github/last-commit/Likeremote-com-1-4M-job-board/Internships-US?label=updated&color=1f7a3a)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us) [![stars](https://img.shields.io/github/stars/Likeremote-com-1-4M-job-board/Internships-US?label=stars&color=2b3b48)](https://likeremote.com/internships?utm_source=github&utm_medium=readme&utm_campaign=internships-us)
 
 Every US internship we find in 1.4M live jobs, in every industry, newest first. This list updates by itself every 6 hours.
 
