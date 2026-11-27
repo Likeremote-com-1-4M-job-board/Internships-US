@@ -1,20 +1,394 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-US",
-		"generated_at": "2026-11-26T21:29:23.519Z",
-		"hash": "2050f7dcd112cc71da97dfb9c2a4827a85f7bca3a96406788b700b038bd3efc8",
-		"open_total": 14890,
+		"generated_at": "2026-11-27T08:24:59.962Z",
+		"hash": "b6a17cd83a3eabd98717632ea6e997d268e374044c2a92efcbbf52810914d2e0",
+		"open_total": 14616,
 		"regions": {
 			"us": {
-				"feed_count": 14890,
+				"feed_count": 14616,
 				"listed": 1000,
-				"closed": 129
+				"closed": 142
 			}
 		}
 	},
 	"regions": {
 		"us": {
 			"open": [
+				{
+					"slug": "software-engineering-intern-2027-summer-term-343ae627",
+					"company": "ATOMS Careers page",
+					"title": "Software Engineering Intern - 2027 Summer Term",
+					"city": "San Francisco, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$70",
+					"posted": "2026-11-26",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "instructional-designer-intern-dad5e53d",
+					"company": "Lucid Motors",
+					"title": "Instructional Designer Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "heor-intern-2496ca2b",
+					"company": "Intuitive",
+					"title": "HEOR Intern",
+					"city": "Sunnyvale, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "business-analyst-intern-93ba857d",
+					"company": "Lucid Motors",
+					"title": "Business Analyst Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "salesforce-engineer-intern-3f0b714f",
+					"company": "Lucid Motors",
+					"title": "Salesforce Engineer Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "sales-strategy-planning-analytics-intern-8f4646d4",
+					"company": "Lucid Motors",
+					"title": "Sales Strategy, Planning & Analytics Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "network-analytics-reporting-intern-8e8c932c",
+					"company": "Lucid Motors",
+					"title": "Network Analytics & Reporting Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "financial-services-operations-intern-dea26a5c",
+					"company": "Lucid Motors",
+					"title": "Financial Services Operations Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "finance"
+				},
+				{
+					"slug": "hr-internal-communications-intern-0e2cd8db",
+					"company": "Lucid Motors",
+					"title": "HR & Internal Communications Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "fleet-operations-intern-be302d75",
+					"company": "Lucid Motors",
+					"title": "Fleet Operations Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "operations"
+				},
+				{
+					"slug": "financial-planning-analysis-intern-923c6382",
+					"company": "Lucid Motors",
+					"title": "Financial Planning & Analysis Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "finance"
+				},
+				{
+					"slug": "marketing-operations-retail-experiential-intern-6ba3f8a1",
+					"company": "Lucid Motors",
+					"title": "Marketing Operations, Retail & Experiential Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "marketing"
+				},
+				{
+					"slug": "logistics-operation-intern-ecba8767",
+					"company": "Lucid Motors",
+					"title": "Logistics Operation Intern",
+					"city": "Amsterdam, NH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "operations"
+				},
+				{
+					"slug": "practicas-revenue-operations-hospitality-revenue-management-1002d945",
+					"company": "Septeo",
+					"title": "Prácticas Revenue Operations – Hospitality & Revenue Management",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "product-marketing-mba-intern-contract-1bdeae82",
+					"company": "HeyGen",
+					"title": "Product Marketing MBA Intern (Contract)",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$6,000 – $10,000",
+					"posted": "2026-11-26",
+					"category": "marketing"
+				},
+				{
+					"slug": "human-resources-intern-airport-warehouse-e1e05708",
+					"company": "Amcor",
+					"title": "Human Resources Intern - Airport Warehouse",
+					"city": "IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "supply-chain-engineer-internship-summer-2027-36b16727",
+					"company": "Vital Lyfe",
+					"title": "Supply Chain Engineer Internship - Summer 2027",
+					"city": "Los Angeles, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$28 – $30 / hour",
+					"posted": "2026-11-26",
+					"category": "operations"
+				},
+				{
+					"slug": "marketing-intern-summer-2027-d013de15",
+					"company": "Vital Lyfe",
+					"title": "Marketing Intern - Summer 2027",
+					"city": "Los Angeles, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$26 – $30 / hour",
+					"posted": "2026-11-26",
+					"category": "marketing"
+				},
+				{
+					"slug": "marketing-intern-north-america-b2b-events-growth-a5fa4b49",
+					"company": "Meshy",
+					"title": "Marketing Intern, North America (B2B Events & Growth)",
+					"city": "Sunnycale",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "marketing"
+				},
+				{
+					"slug": "werkstudent-content-brand-caa47e73",
+					"company": "Clera",
+					"title": "Werkstudent Content & Brand",
+					"city": "Orlando, FL",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "marketing"
+				},
+				{
+					"slug": "product-engineer-intern-mobile-f8541033",
+					"company": "Clera",
+					"title": "Product Engineer Intern, Mobile",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "nj-pharmacy-underwriting-summer-internship-program-26009219-01a07fc3",
+					"company": "Express Scripts Services Co",
+					"title": "Pharmacy Underwriting Summer Internship Program",
+					"city": "Morris Plains, NJ",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-26",
+					"category": "other"
+				},
+				{
+					"slug": "enterprise-marketing-operations-intern-2027-summer-u-s-d59312eb",
+					"company": "Atlassian",
+					"title": "Enterprise Marketing Operations Intern, 2027 Summer U.S.",
+					"city": "San Francisco, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$43 – $51",
+					"posted": "2026-11-25",
+					"category": "marketing"
+				},
+				{
+					"slug": "internship-technical-product-management-da630b4a",
+					"company": "QuEra Computing, Inc.",
+					"title": "Internship – Technical Product Management",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "internship-data-management-57aa21d3",
+					"company": "QuEra Computing, Inc.",
+					"title": "Internship – Data Management",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "software-engineering-intern-67da4cff",
+					"company": "Digital Control Inc.",
+					"title": "Software Engineering Intern",
+					"city": "Kent, WA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "quality-control-intern-21541758",
+					"company": "Digital Control Inc.",
+					"title": "Quality Control Intern",
+					"city": "Kent, WA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "research-intern-machine-learning-for-biology-and-healthcare-59f227b3",
+					"company": "Microsoft",
+					"title": "Research Intern - Machine Learning for Biology and Healthcare",
+					"city": "Redmond, WA",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": "$6,810 – $13,480",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "supply-chain-intern-4e130b9e",
+					"company": "Digital Control Inc.",
+					"title": "Supply Chain Intern",
+					"city": "Kent, WA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "operations"
+				},
+				{
+					"slug": "manufacturing-engineer-intern-junior-f7565282",
+					"company": "V2X",
+					"title": "Manufacturing Engineer Intern- Junior",
+					"city": "Indianapolis, IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$4",
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "engineering-kettering-co-op-e10c4895",
+					"company": "Stellantis",
+					"title": "Engineering Kettering Co-Op",
+					"city": "Detroit, MI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "manufacturing-kettering-co-op-6df73d2a",
+					"company": "Stellantis",
+					"title": "Manufacturing Kettering Co-Op",
+					"city": "Detroit, MI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "mechanical-engineering-intern-3d8823bc",
+					"company": "Firestorm Labs",
+					"title": "Mechanical Engineering Intern",
+					"city": "San Diego, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$28 – $34",
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "mission-success-operations-intern-c37e3268",
+					"company": "Firestorm Labs",
+					"title": "Mission Success Operations Intern",
+					"city": "San Diego, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$28 – $34",
+					"posted": "2026-11-25",
+					"category": "operations"
+				},
 				{
 					"slug": "2027-summer-analyst-internship-vital-places-c828de74",
 					"company": "HR&A Advisors",
@@ -27,6 +401,50 @@
 					"category": "other"
 				},
 				{
+					"slug": "structural-engineering-co-op-spring-2027-da60843d",
+					"company": "WSP",
+					"title": "Structural Engineering Co-op - Spring 2027",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$23.90 – $32.22",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "people-operations-intern-86c06da0",
+					"company": "Firestorm Labs",
+					"title": "People Operations Intern",
+					"city": "San Diego, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$28 – $34",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "consulting-services-intern-c9ff79a6",
+					"company": "AECOM",
+					"title": "Consulting Services Intern",
+					"city": "Chicago, IL",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "field-engineering-intern-0ad2f43b",
+					"company": "Firestorm Labs",
+					"title": "Field Engineering Intern",
+					"city": "San Diego, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$28 – $34",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
 					"slug": "2027-summer-analyst-internship-inclusive-cities-cb3e49e4",
 					"company": "HR&A Advisors",
 					"title": "2027 Summer Analyst Internship, Inclusive Cities",
@@ -34,6 +452,17 @@
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": "$6,000",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "it-contracting-intern-6175e8db",
+					"company": "Ascension",
+					"title": "IT Contracting Intern",
+					"city": "Saint Louis, MO",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
 					"posted": "2026-11-25",
 					"category": "other"
 				},
@@ -350,6 +779,17 @@
 					"company": "Quality Vision International Inc.",
 					"title": "Systems Administrator Intern",
 					"city": "Rochester, NY",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "machine-learning-engineer-intern-data-global-e-commerce-60c52d4f",
+					"company": "TikTok",
+					"title": "Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start (PhD)",
+					"city": "Seattle, WA",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -896,17 +1336,6 @@
 					"category": "hardware-engineering"
 				},
 				{
-					"slug": "engineering-kettering-co-op-499408d4",
-					"company": "Stellantis",
-					"title": "Engineering Kettering Co-Op",
-					"city": "Detroit, MI",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "other"
-				},
-				{
 					"slug": "quality-engineer-intern-summer-2027-7c1ac6f0",
 					"company": "Fa Exty Saasfaprod1",
 					"title": "Quality Engineer Intern Summer 2027",
@@ -1219,6 +1648,17 @@
 					"company": "Chromalloy",
 					"title": "Engineering Intern",
 					"city": "San Antonio, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "news-intern-orangeburg-sc-a3e05d2f",
+					"company": "Lee Enterprises",
+					"title": "News Intern - Orangeburg, SC",
+					"city": "Orangeburg, SC",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -1565,6 +2005,215 @@
 					"salary": "$28 – $68",
 					"posted": "2026-11-25",
 					"category": "software-engineering"
+				},
+				{
+					"slug": "project-specialist-i-intern-united-states-e4678096",
+					"company": "Cisco",
+					"title": "Project Specialist I (Intern) - United States",
+					"city": "NC",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "intern-mechanical-engineering-0b0d09fd",
+					"company": "Stryker Employment Company, LLC",
+					"title": "Intern, Mechanical Engineering",
+					"city": "Portage, MI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "2027-summer-intern-molecular-lab-research-and-early-4309da52",
+					"company": "Ventana Medical Systems, Inc.",
+					"title": "2027 Summer Intern - Molecular Lab Research and Early Development (MLRED), Oncology and Genomics Molecular Personalize Healthcare Solutions…",
+					"city": "Pleasanton",
+					"country_code": "US",
+					"work_mode": null,
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "2027-summer-internship-program-statistical-machine-learning-ade0afd4",
+					"company": "Takeda Innovation Solutions Mexico S.A de C.V",
+					"title": "2027 Summer Internship Program: Statistical Machine Learning and Precision Medicine Intern",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "grad-intern-global-medical-affairs-thoracic-oncology-summer-01e96084",
+					"company": "Amgen Inc.",
+					"title": "Grad Intern - Global Medical Affairs Thoracic Oncology (Summer 2027)",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "intern-thermal-engineering-75e785cd",
+					"company": "Lanteris Space",
+					"title": "Intern, Thermal Engineering",
+					"city": "Palo Alto, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "agriculture-intern-f383eaac",
+					"company": "Lamb Weston, Inc",
+					"title": "Agriculture Intern",
+					"city": "American Falls, ID",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "summer-2027-intern-employee-relations-people-partner-intern-51cb2df0",
+					"company": "Assurant",
+					"title": "Summer 2027 Intern: Employee Relations & People Partner Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "summer-2027-intern-talent-acquisition-735f3fc9",
+					"company": "Assurant",
+					"title": "Summer 2027 Intern: Talent Acquisition",
+					"city": "Atlanta, GA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "2027-summer-intern-translational-safety-digital-pathology-c34850fe",
+					"company": "Genentech",
+					"title": "2027 Summer Intern - Translational Safety (Digital Pathology)",
+					"city": "South San Francisco, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "insomniac-events-paid-spring-music-group-a-r-intern-2afe168a",
+					"company": "Live Nation Worldwide, Inc.",
+					"title": "Insomniac Events - Paid Spring Music Group A&R Intern",
+					"city": "Calabasas, CA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "motorsports-internship-summer-2027-a0d29e97",
+					"company": "Oshkosh Corporation",
+					"title": "Motorsports Internship (Summer 2027)",
+					"city": "New Hudson, MI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$18 – $37",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "software-engineer-intern-28882db7",
+					"company": "Coderabbit",
+					"title": "Software Engineer - Intern",
+					"city": "San Francisco, CA",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": "$50 – $55 / hour",
+					"posted": "2026-11-25",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "brand-management-intern-schwarzkopf-professional-summer-fall-32eea968",
+					"company": "Henkel",
+					"title": "Brand Management Intern, Schwarzkopf Professional – Summer/Fall 2027",
+					"city": "Culver City, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$37",
+					"posted": "2026-11-25",
+					"category": "marketing"
+				},
+				{
+					"slug": "strategic-innovation-intern-schwarzkopf-professional-summer-09a58730",
+					"company": "Henkel",
+					"title": "Strategic Innovation Intern, Schwarzkopf Professional - Summer 2027",
+					"city": "Culver City, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$37",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "integrated-marketing-intern-schwarzkopf-professional-summer-ccf68893",
+					"company": "Henkel",
+					"title": "Integrated Marketing Intern, Schwarzkopf Professional - Summer/Fall 2027",
+					"city": "Culver City, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$27",
+					"posted": "2026-11-25",
+					"category": "marketing"
+				},
+				{
+					"slug": "business-analytics-intern-hair-professional-summer-fall-2027-e2391c31",
+					"company": "Henkel",
+					"title": "Business Analytics Intern, Hair Professional – Summer/Fall 2027",
+					"city": "Culver City, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$27",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "international-business-development-marketing-intern-summer-89d24e8f",
+					"company": "Henkel",
+					"title": "International Business Development & Marketing Intern – Summer/Fall 2027",
+					"city": "Culver City, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$27",
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
+					"slug": "2027-summer-intern-x-bat-engineering-avionics-5923-2744c67b",
+					"company": "Shield AI",
+					"title": "2027 Summer Intern - X-BAT Engineering Avionics - 5923",
+					"city": "Dallas, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$35 – $75 / hour",
+					"posted": "2026-11-25",
+					"category": "hardware-engineering"
 				},
 				{
 					"slug": "medicaid-strategy-operations-corporate-internship-summer-cb182c6a",
@@ -1919,17 +2568,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "2027-summer-intern-translational-safety-digital-pathology-46d1e3bd",
-					"company": "Genentech",
-					"title": "2027 Summer Intern - Translational Safety (Digital Pathology)",
-					"city": "South San Francisco, CA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "other"
-				},
-				{
 					"slug": "2027-rf-antenna-undergrad-intern-dbe7afb2",
 					"company": "GE India Industrial Pvt Ltd",
 					"title": "2027 RF/Antenna Undergrad Intern",
@@ -2110,17 +2748,6 @@
 					"company": "Oshkosh Defense LLC",
 					"title": "Motorsports Internship (Summer 2027)",
 					"city": "New Hudson, MI",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "other"
-				},
-				{
-					"slug": "big-ten-fellow-intern-usc-athletics-35d7bcc0",
-					"company": "USC University of Southern California",
-					"title": "Big Ten Fellow Intern, USC Athletics",
-					"city": null,
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -2412,17 +3039,6 @@
 					"salary": null,
 					"posted": "2026-11-25",
 					"category": "other"
-				},
-				{
-					"slug": "maintenance-intern-1st-shift-broken-bow-ok-0d16ec8c",
-					"company": "Tysonfoods",
-					"title": "Maintenance Intern (1st Shift)- Broken Bow, OK",
-					"city": "Oklahoma City, OK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "hardware-engineering"
 				},
 				{
 					"slug": "spring-2027-irc-san-diego-career-programs-intern-unpaid-2a9498bf",
@@ -3316,6 +3932,17 @@
 					"category": "other"
 				},
 				{
+					"slug": "pharmacy-undergraduate-summer-intern-2140bafe",
+					"company": "Centene Management Company LLC",
+					"title": "Pharmacy Undergraduate Summer Intern",
+					"city": "MO",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
 					"slug": "nursing-clinical-internship-nci-clinic-6785e79a",
 					"company": "Avera",
 					"title": "Nursing Clinical Internship (NCI) | Clinic",
@@ -3888,17 +4515,6 @@
 					"category": "hardware-engineering"
 				},
 				{
-					"slug": "2027-internship-artificial-intelligence-and-complex-systems-c57794a2",
-					"company": "Johns Hopkins Applied Physics Laboratory",
-					"title": "2027 Internship - Artificial Intelligence and Complex Systems",
-					"city": "Laurel, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$22.60 – $47.95",
-					"posted": "2026-11-24",
-					"category": "software-engineering"
-				},
-				{
 					"slug": "2027-internship-biological-sciences-intern-a84791af",
 					"company": "Johns Hopkins Applied Physics Laboratory",
 					"title": "2027 Internship - Biological Sciences Intern",
@@ -3913,17 +4529,6 @@
 					"slug": "2027-internship-chemical-sciences-research-intern-a518b296",
 					"company": "Johns Hopkins Applied Physics Laboratory",
 					"title": "2027 Internship - Chemical Sciences Research Intern",
-					"city": "Laurel, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$22.60 – $47.95",
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
-					"slug": "2027-internship-robotics-04fa59cc",
-					"company": "Johns Hopkins Applied Physics Laboratory",
-					"title": "2027 Internship - Robotics",
 					"city": "Laurel, MD",
 					"country_code": "US",
 					"work_mode": "On-site",
@@ -4623,17 +5228,6 @@
 					"salary": "$17.13 – $27.02",
 					"posted": "2026-11-24",
 					"category": "marketing"
-				},
-				{
-					"slug": "spring-summer-2027-masters-ai-rack-cluster-design-c9af0348",
-					"company": "AMD",
-					"title": "Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op",
-					"city": "Austin, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "software-engineering"
 				},
 				{
 					"slug": "certification-engineering-intern-d614ee83",
@@ -5516,17 +6110,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "engineering-intern-electronics-summer-2027-ead02541",
-					"company": "Black Decker (U.S.) Inc.",
-					"title": "Engineering Intern, Electronics - Summer 2027",
-					"city": "Towson, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "hardware-engineering"
-				},
-				{
 					"slug": "gdit-summer-internship-program-summer-2027-business-strategy-5cc0aea0",
 					"company": "GD Information Technology, Inc.",
 					"title": "GDIT Summer Internship Program – Summer 2027 Business Strategy Associate Internship",
@@ -5553,17 +6136,6 @@
 					"company": "Northrop Grumman",
 					"title": "2027 Industrial Engineering Internship - Baltimore MD",
 					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
-					"slug": "summer-intern-deca4192",
-					"company": "Cushman Wakefield India Private Limited",
-					"title": "Summer Intern",
-					"city": "New York City, NY",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -6306,17 +6878,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "corporate-intern-government-relations-fellow-0c6df652",
-					"company": "Walmart",
-					"title": "Corporate Intern - Government Relations Fellow",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
 				},
 				{
 					"slug": "alcon-summer-2027-intern-human-factors-user-experience-a9bc227c",
@@ -8739,17 +9300,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "missile-systems-engineer-intern-b9a7c7c2",
-					"company": "Leidos",
-					"title": "Missile Systems Engineer Intern",
-					"city": "Huntsville, AL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
 					"slug": "accounting-and-finance-intern-e2e51800",
 					"company": "Banner Health",
 					"title": "Accounting and Finance Intern",
@@ -8759,17 +9309,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "finance"
-				},
-				{
-					"slug": "co-op-electrical-engineering-643c284d",
-					"company": "USA - Smith Nephew, Inc.",
-					"title": "Co-Op Electrical Engineering",
-					"city": "Andover, MA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "hardware-engineering"
 				},
 				{
 					"slug": "hub-international-internship-program-summer-2027-7e4a42d9",
@@ -8803,17 +9342,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "2027-summer-intern-program-operations-md-va-sc-ga-e5723916",
-					"company": "ICF Incorporated, LLC",
-					"title": "2027 Summer Intern, Program Operations (MD; VA)",
-					"city": "Reston, VA",
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "operations"
 				},
 				{
 					"slug": "applied-science-intern-phd-2027-austin-san-jose-seattle-eca7e4cd",
@@ -10486,537 +11014,165 @@
 					"salary": null,
 					"posted": "2026-11-23",
 					"category": "finance"
-				},
-				{
-					"slug": "internal-communications-internship-undergraduate-or-graduate-520e7c2b",
-					"company": "On Location Events, LLC",
-					"title": "Internal Communications Internship | Undergraduate or Graduate - Summer 2027",
-					"city": "New York, NY",
-					"country_code": "US",
-					"work_mode": "Hybrid",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "marketing"
-				},
-				{
-					"slug": "evergreen-private-fund-solutions-summer-2027-intern-2edce3d5",
-					"company": "iCapital",
-					"title": "Evergreen Private Fund Solutions - Summer 2027 Intern",
-					"city": "New York City, NY",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$1.00 – $43.50",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "mechanical-engineering-project-management-intern-spring-2027-37f03dd2",
-					"company": "Clean Harbors",
-					"title": "Mechanical Engineering Project Management Intern - Spring 2027",
-					"city": "Norwell, MA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "werkstudent-in-netzbetreibermanagement-w-m-d-6b2bfbc1",
-					"company": "Octopus Energy Group",
-					"title": "Werkstudent*in Netzbetreibermanagement (w/m/d)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "Hybrid",
-					"salary": "€15 – €19 / hour",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "2027-development-summer-analyst-6fc59734",
-					"company": "Rodriguez Services",
-					"title": "2027 Development Summer Analyst",
-					"city": "San Francisco, CA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "communications-intern-sealaska-summer-2027-9d5398f5",
-					"company": "Sealaska",
-					"title": "Communications Intern (Sealaska) - Summer 2027",
-					"city": "Juneau, AK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "marketing"
-				},
-				{
-					"slug": "raven-writes-education-intern-shi-summer-2027-8fb6b623",
-					"company": "Sealaska",
-					"title": "Raven Writes Education Intern (SHI) Summer 2027",
-					"city": "Juneau, AK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "natural-resources-intern-ketchikan-summer-2027-5684c445",
-					"company": "Sealaska",
-					"title": "Natural Resources Intern (Ketchikan) - Summer 2027",
-					"city": "Ketchikan, AK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "natural-resources-intern-hoonah-summer-2027-94be70b2",
-					"company": "Sealaska",
-					"title": "Natural Resources Intern (Hoonah) - Summer 2027",
-					"city": "Hoonah, AK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "archives-collections-intern-shi-summer-2027-64e76a81",
-					"company": "Sealaska",
-					"title": "Archives & Collections Intern (SHI) - Summer 2027",
-					"city": "Juneau, AK",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "human-resources-internship-08f963c0",
-					"company": "Hightower Advisors",
-					"title": "Human Resources Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "trust-operations-internship-5c1f0398",
-					"company": "Hightower Advisors",
-					"title": "Trust Operations Internship",
-					"city": "Houston, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "operations"
-				},
-				{
-					"slug": "advisors-services-family-office-internship-fa8b2c04",
-					"company": "Hightower Advisors",
-					"title": "Advisors Services, Family Office Internship",
-					"city": "New York, NY",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "advisor-products-and-enablement-internship-87e382f6",
-					"company": "Hightower Advisors",
-					"title": "Advisor Products and Enablement Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "cybersecurity-internship-0775b3e5",
-					"company": "Hightower Advisors",
-					"title": "Cybersecurity Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "investment-management-rotational-internship-30078c35",
-					"company": "Hightower Advisors",
-					"title": "Investment Management Rotational Internship",
-					"city": "Harrison, NY",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "finance-internship-b3d9bdaf",
-					"company": "Hightower Advisors",
-					"title": "Finance Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "accounting-internship-257c86b6",
-					"company": "Hightower Advisors",
-					"title": "Accounting Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "client-reporting-internship-3cb3f8d4",
-					"company": "Hightower Advisors",
-					"title": "Client Reporting Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "operations-internship-4270a4d8",
-					"company": "Hightower Advisors",
-					"title": "Operations Internship",
-					"city": "Chicago, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$24",
-					"posted": "2026-11-23",
-					"category": "operations"
-				},
-				{
-					"slug": "2027-internship-spring-communications-and-community-c2813e31",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Communications and Community",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "marketing"
-				},
-				{
-					"slug": "2027-internship-spring-field-marketing-community-impact-59794c60",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Field Marketing & Community Impact",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "marketing"
-				},
-				{
-					"slug": "2027-internship-spring-youth-programs-marketing-d7bee4e3",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Youth Programs Marketing",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "marketing"
-				},
-				{
-					"slug": "2027-internship-spring-rds-operations-2c4d5e3d",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - RDS Operations",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "operations"
-				},
-				{
-					"slug": "2027-internship-spring-box-office-e7c6b581",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Box Office",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "2027-internship-spring-sales-and-service-46a5f658",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Sales and Service",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "2027-internship-spring-control-room-operations-6723f3c4",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Control Room Operations",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "operations"
-				},
-				{
-					"slug": "2027-internship-spring-event-operations-4a4cc390",
-					"company": "Red Bull",
-					"title": "2027 Internship, Spring - Event Operations",
-					"city": "Harrison, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "operations"
-				},
-				{
-					"slug": "intern-revenue-management-summer-2027-f556fb3b",
-					"company": "Highgate",
-					"title": "Intern - Revenue Management (Summer 2027)",
-					"city": "Honolulu, HI",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$20",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "technical-writer-intern-cb1f047c",
-					"company": "General Dynamics Mission Systems",
-					"title": "Technical Writer Intern",
-					"city": "Manassas, VA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$27.50",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "risk-consultant-intern-summer-2027-metro-atlanta-georgia-309be592",
-					"company": "Federated Insurance",
-					"title": "Risk Consultant Intern - Summer 2027 - Metro Atlanta, Georgia",
-					"city": "Atlanta, GA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$31.50",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "underwriting-summer-intern-34e10365",
-					"company": "W.R. Berkley",
-					"title": "Underwriting Summer Intern",
-					"city": "Urbandale, IA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "project-engineer-intern-water-wastewater-plants-d1219192",
-					"company": "Wharton-Smith",
-					"title": "Project Engineer Intern - Water/Wastewater Plants",
-					"city": "Jacksonville, FL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "project-engineer-intern-construction-8703a76d",
-					"company": "Wharton-Smith",
-					"title": "Project Engineer Intern - Construction",
-					"city": "Tampa, FL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "omni-care-intern-revenue-management-summer-2027-65218915",
-					"company": "Omni Hotels & Resorts",
-					"title": "Omni Care Intern | Revenue Management | Summer 2027",
-					"city": "Atlanta, GA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "electrical-engineering-intern-nuclear-summer-2027-15114d35",
-					"company": "Sargent & Lundy",
-					"title": "Electrical Engineering Intern - Nuclear (Summer 2027)",
-					"city": "Charlotte, NC",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$18 – $30",
-					"posted": "2026-11-23",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "substation-engineer-intern-grid-summer-2027-28c05776",
-					"company": "Sargent & Lundy",
-					"title": "Substation Engineer Intern - Grid (Summer 2027)",
-					"city": "Cranberry Township, PA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$18 – $30",
-					"posted": "2026-11-23",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "human-resources-intern-349fab1b",
-					"company": "Minerals Technologies",
-					"title": "Human Resources Intern",
-					"city": "Bethlehem, PA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "project-management-intern-db1a19cb",
-					"company": "ASRC Federal",
-					"title": "Project Management Intern",
-					"city": "Moorestown, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "software-developer-intern-32c9a5e5",
-					"company": "ASRC Federal",
-					"title": "Software Developer Intern",
-					"city": "Moorestown, NJ",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "electronic-engineering-intern-af578a66",
-					"company": "ASRC Federal",
-					"title": "Electronic Engineering Intern",
-					"city": "Grantsburg, WI",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "mechanical-engineering-intern-eb8961c7",
-					"company": "ASRC Federal",
-					"title": "Mechanical Engineering intern",
-					"city": "Grantsburg, WI",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "software-developer-intern-dd86fd6b",
-					"company": "ASRC Federal",
-					"title": "Software Developer Intern",
-					"city": "Columbia, MD",
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "knowledge-management-intern-67574149",
-					"company": "ASRC Federal",
-					"title": "Knowledge Management Intern",
-					"city": "Aberdeen Proving Ground, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "software-development-data-applications-intern-cecom-24701d30",
-					"company": "ASRC Federal",
-					"title": "Software Development & Data Applications Intern – CECOM",
-					"city": "Aberdeen Proving Ground, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "super-intelligence-engineering-intern-7fcd3155",
-					"company": "ASRC Federal",
-					"title": "Super Intelligence Engineering Intern",
-					"city": "Aberdeen Proving Ground, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-bridge-engineering-17d41f22",
-					"company": "Gannett Fleming",
-					"title": "Intern - Bridge Engineering",
-					"city": "Boston, MA",
-					"country_code": "US",
-					"work_mode": null,
-					"salary": "$21 – $28",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "helpdesk-support-intern-b168ec9a",
-					"company": "ASRC Federal",
-					"title": "Helpdesk Support Intern",
-					"city": "Washington, DC",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$23",
-					"posted": "2026-11-23",
-					"category": "software-engineering"
 				}
 			],
 			"closed": [
+				{
+					"slug": "engineering-kettering-co-op-499408d4",
+					"company": "Stellantis",
+					"title": "Engineering Kettering Co-Op",
+					"city": "Detroit, MI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "2027-summer-intern-translational-safety-digital-pathology-46d1e3bd",
+					"company": "Genentech",
+					"title": "2027 Summer Intern - Translational Safety (Digital Pathology)",
+					"city": "South San Francisco, CA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "big-ten-fellow-intern-usc-athletics-35d7bcc0",
+					"company": "USC University of Southern California",
+					"title": "Big Ten Fellow Intern, USC Athletics",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "maintenance-intern-1st-shift-broken-bow-ok-0d16ec8c",
+					"company": "Tysonfoods",
+					"title": "Maintenance Intern (1st Shift)- Broken Bow, OK",
+					"city": "Oklahoma City, OK",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "hardware-engineering",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "2027-internship-artificial-intelligence-and-complex-systems-c57794a2",
+					"company": "Johns Hopkins Applied Physics Laboratory",
+					"title": "2027 Internship - Artificial Intelligence and Complex Systems",
+					"city": "Laurel, MD",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$22.60 – $47.95",
+					"posted": "2026-11-24",
+					"category": "software-engineering",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "2027-internship-robotics-04fa59cc",
+					"company": "Johns Hopkins Applied Physics Laboratory",
+					"title": "2027 Internship - Robotics",
+					"city": "Laurel, MD",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$22.60 – $47.95",
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "spring-summer-2027-masters-ai-rack-cluster-design-c9af0348",
+					"company": "AMD",
+					"title": "Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op",
+					"city": "Austin, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "software-engineering",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "engineering-intern-electronics-summer-2027-ead02541",
+					"company": "Black Decker (U.S.) Inc.",
+					"title": "Engineering Intern, Electronics - Summer 2027",
+					"city": "Towson, MD",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "hardware-engineering",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "summer-intern-deca4192",
+					"company": "Cushman Wakefield India Private Limited",
+					"title": "Summer Intern",
+					"city": "New York City, NY",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "corporate-intern-government-relations-fellow-0c6df652",
+					"company": "Walmart",
+					"title": "Corporate Intern - Government Relations Fellow",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "missile-systems-engineer-intern-b9a7c7c2",
+					"company": "Leidos",
+					"title": "Missile Systems Engineer Intern",
+					"city": "Huntsville, AL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "co-op-electrical-engineering-643c284d",
+					"company": "USA - Smith Nephew, Inc.",
+					"title": "Co-Op Electrical Engineering",
+					"city": "Andover, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "hardware-engineering",
+					"closed_at": "2026-11-27"
+				},
+				{
+					"slug": "2027-summer-intern-program-operations-md-va-sc-ga-e5723916",
+					"company": "ICF Incorporated, LLC",
+					"title": "2027 Summer Intern, Program Operations (MD; VA)",
+					"city": "Reston, VA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "operations",
+					"closed_at": "2026-11-27"
+				},
 				{
 					"slug": "branch-operations-intern-8b94ec14",
 					"company": "Republic Finance",
