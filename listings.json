@@ -1,20 +1,416 @@
 {
 	"meta": {
 		"repo": "Likeremote-com-1-4M-job-board/Internships-US",
-		"generated_at": "2026-11-27T21:15:25.029Z",
-		"hash": "057100a3f6d7f71f4ea3fd920c0943fa015403628b308bd83ecc3ad1d002e938",
-		"open_total": 14528,
+		"generated_at": "2026-11-28T07:44:13.250Z",
+		"hash": "d28042c461509d56b74aa601a77b0cb551d636a3caca4272e09c2d1dd3001356",
+		"open_total": 14290,
 		"regions": {
 			"us": {
-				"feed_count": 14528,
+				"feed_count": 14290,
 				"listed": 1000,
-				"closed": 142
+				"closed": 158
 			}
 		}
 	},
 	"regions": {
 		"us": {
 			"open": [
+				{
+					"slug": "planning-intern-df34327e",
+					"company": "Toole Design Group LLC",
+					"title": "Planning Intern",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": "$23 – $31 / hour",
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "engineering-intern-a2b9a534",
+					"company": "Toole Design Group LLC",
+					"title": "Engineering Intern",
+					"city": "Seattle, WA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": "$25 – $32 / hour",
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "branch-operations-intern-846e799f",
+					"company": "Republic Finance",
+					"title": "Branch Operations Intern",
+					"city": "Goose Creek, SC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$15",
+					"posted": "2026-11-27",
+					"category": "operations"
+				},
+				{
+					"slug": "nursing-intern-5ed8d83f",
+					"company": "Ascension",
+					"title": "Nursing Intern",
+					"city": "Oshkosh, WI",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "afstudeerstage-accounting-advisory-16b0cab3",
+					"company": "KPMG Nederland",
+					"title": "Afstudeerstage Accounting Advisory",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "€1,000",
+					"posted": "2026-11-27",
+					"category": "finance"
+				},
+				{
+					"slug": "afstudeerstage-audit-financial-services-ced21f8b",
+					"company": "KPMG Nederland",
+					"title": "Afstudeerstage Audit Financial Services",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "€1,000",
+					"posted": "2026-11-27",
+					"category": "finance"
+				},
+				{
+					"slug": "marketing-intern-b6acc58c",
+					"company": "Trilon Group",
+					"title": "Marketing Intern",
+					"city": "Charlotte, NC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "marketing"
+				},
+				{
+					"slug": "hbo-wo-afstudeeropdracht-software-development-c-net-a52e9b12",
+					"company": "Eurofins",
+					"title": "HBO/WO afstudeeropdracht Software Development (C# .NET)",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "stagiair-e-agentic-ai-hr-insights-859ff2b7",
+					"company": "KPMG Nederland",
+					"title": "Stagiair(e) Agentic AI & HR Insights",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": "€1,000",
+					"posted": "2026-11-27",
+					"category": "software-engineering"
+				},
+				{
+					"slug": "marketing-graphic-design-intern-on-site-c683751e",
+					"company": "Delta Electronics",
+					"title": "Marketing & Graphic Design Intern (on-site)",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "web-and-digital-platform-intern-7a049aa1",
+					"company": "Delta Electronics",
+					"title": "Web and Digital Platform Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "corporate-development-summer-associate-a56ec6ae",
+					"company": "ATT Services, Inc.",
+					"title": "Corporate Development Summer Associate",
+					"city": "Dallas, TX",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "investment-services-intern-a510698f",
+					"company": "Centier",
+					"title": "Investment Services Intern",
+					"city": "Merrillville, IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "finance"
+				},
+				{
+					"slug": "internal-controls-intern-e9511831",
+					"company": "Centier",
+					"title": "Internal Controls Intern",
+					"city": "Merrillville, IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "erm-intern-a0dfd775",
+					"company": "Centier",
+					"title": "ERM Intern",
+					"city": "Merrillville, IN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "operations-analyst-intern-fd6d7fd5",
+					"company": "Manulife Financial",
+					"title": "Operations Analyst Intern",
+					"city": "Boston, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "operations"
+				},
+				{
+					"slug": "intern-d507b921",
+					"company": "UMB BANK NA",
+					"title": "Intern",
+					"city": "Milwaukee, WI",
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "co-op-advertising-marketing-0226c878",
+					"company": "O'Reilly Auto Enterprises, LLC",
+					"title": "Co-OP - Advertising & Marketing",
+					"city": null,
+					"country_code": "US",
+					"work_mode": null,
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "marketing"
+				},
+				{
+					"slug": "hr-operations-intern-25fcdbd4",
+					"company": "Children's Healthcare of Atlanta, Inc.",
+					"title": "HR Operations Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "registered-mental-health-intern-fee-for-service-ecf3dd6e",
+					"company": "Thriveworks Clinical - Illinois",
+					"title": "Registered Mental Health Intern - Fee For Service",
+					"city": "Jacksonville, FL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "registered-clinical-social-work-intern-fee-for-service-1232261e",
+					"company": "Thriveworks Clinical - Illinois",
+					"title": "Registered Clinical Social Work Intern - Fee For Service",
+					"city": "Jacksonville, FL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "pharmacy-intern-ed1c14ab",
+					"company": "Hy-Vee Inc",
+					"title": "Pharmacy Intern",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "yawkey-pharmacy-co-op-position-ff28a3a0",
+					"company": "Massgeneralbrigham",
+					"title": "Yawkey Pharmacy Co-op Position",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "pharmacy-intern-yr1-bwh-c34005ed",
+					"company": "Massgeneralbrigham",
+					"title": "Pharmacy Intern YR1 - BWH",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "child-life-internship-12dbd42e",
+					"company": "Sisters of Charity of Leavenworth Health System Inc",
+					"title": "Child Life Internship",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "Hybrid",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "compensation-intern-undergrad-internship-summer-2027-3d418cbb",
+					"company": "Lowes",
+					"title": "Compensation Intern – Undergrad Internship - Summer 2027",
+					"city": "Mooresville, NC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "optical-physics-intern-summer-2027-64ac916a",
+					"company": "Corning",
+					"title": "Optical Physics Intern - Summer 2027",
+					"city": "Corning, NY",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$1,635 – $3,185",
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "intern-summer-3030657a",
+					"company": "Boston Children's Hospital",
+					"title": "Intern/Spring Semester",
+					"city": "Boston",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$15.00 – $22.98 / hour",
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "intern-a8b14140",
+					"company": "Brown Brown, Inc",
+					"title": "Intern",
+					"city": "Brentwood, TN",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "sales-intern-fdb673b7",
+					"company": "Brown Brown, Inc",
+					"title": "Sales Intern",
+					"city": "Plano, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "co-op-electrical-engineering-643c284d",
+					"company": "USA - Smith Nephew, Inc.",
+					"title": "Co-Op Electrical Engineering",
+					"city": "Andover, MA",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "hardware-engineering"
+				},
+				{
+					"slug": "uman-capital-and-learning-remote-from-dc-md-or-va-r2603317-1-f132045c",
+					"company": "ICF Incorporated, LLC",
+					"title": "2027 Summer Intern, Human Capital and Learning (Remote from DC, MD or VA)",
+					"city": "Richmond, VA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "l-graduate-program-associate-vaccines-morristown-nj-r2870192-3fd051d1",
+					"company": "Sanofi Healthcare India Private Limited",
+					"title": "2027 Summer Intern Commercial Graduate Program Associate, Vaccines, Morristown, NJ",
+					"city": "Morristown, NJ",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "e-program-associate-general-medicines-morristown-nj-r2870195-7d3799c1",
+					"company": "Sanofi Healthcare India Private Limited",
+					"title": "2027 Summer Intern Commercial Graduate Program Associate, General Medicines, Morristown, NJ",
+					"city": "Morristown, NJ",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "other"
+				},
+				{
+					"slug": "7-summer-commercial-bank-internship-cleveland-credit-r-41396-a60d8dec",
+					"company": "KeyBank National Association",
+					"title": "2027 Summer Commercial Bank Internship - Cleveland (Credit)",
+					"city": "Cleveland, OH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "finance"
+				},
+				{
+					"slug": "e-2027-summer-commercial-bank-internship-cleveland-r-41393-1-aaf6dd80",
+					"company": "KeyBank National Association",
+					"title": "2027 Summer Commercial Bank Internship - Cleveland",
+					"city": "Cleveland, OH",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-27",
+					"category": "finance"
+				},
 				{
 					"slug": "software-engineering-intern-2027-summer-term-343ae627",
 					"company": "ATOMS Careers page",
@@ -179,6 +575,17 @@
 					"salary": "$6,000 – $10,000",
 					"posted": "2026-11-26",
 					"category": "marketing"
+				},
+				{
+					"slug": "r-d-intern-glass-development-optical-fiber-technologies-82ab28bf",
+					"company": "Corning",
+					"title": "R&D Intern, Glass Development & Optical Fiber Technologies - Summer 2027",
+					"city": "Corning, NY",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": "$1,635 – $3,185",
+					"posted": "2026-11-26",
+					"category": "other"
 				},
 				{
 					"slug": "human-resources-intern-airport-warehouse-e1e05708",
@@ -452,17 +859,6 @@
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": "$6,000",
-					"posted": "2026-11-25",
-					"category": "other"
-				},
-				{
-					"slug": "it-contracting-intern-6175e8db",
-					"company": "Ascension",
-					"title": "IT Contracting Intern",
-					"city": "Saint Louis, MO",
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
 					"posted": "2026-11-25",
 					"category": "other"
 				},
@@ -1103,17 +1499,6 @@
 					"salary": null,
 					"posted": "2026-11-25",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "branch-operations-intern-1497d447",
-					"company": "Republic Finance",
-					"title": "Branch Operations Intern",
-					"city": "Lancaster, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$15",
-					"posted": "2026-11-25",
-					"category": "operations"
 				},
 				{
 					"slug": "2027-summer-intern-6g-cellular-standardization-0c8444bb",
@@ -2007,6 +2392,17 @@
 					"category": "software-engineering"
 				},
 				{
+					"slug": "pharmacy-intern-grad-f90ca434",
+					"company": "9CVS Pharmacy, Inc.",
+					"title": "Pharmacy Intern - Grad",
+					"city": "Washington, DC",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
+				},
+				{
 					"slug": "project-specialist-i-intern-united-states-e4678096",
 					"company": "Cisco",
 					"title": "Project Specialist I (Intern) - United States",
@@ -2139,17 +2535,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "software-engineer-intern-28882db7",
-					"company": "Coderabbit",
-					"title": "Software Engineer - Intern",
-					"city": "San Francisco, CA",
-					"country_code": "US",
-					"work_mode": "Hybrid",
-					"salary": "$50 – $55 / hour",
-					"posted": "2026-11-25",
-					"category": "software-engineering"
-				},
-				{
 					"slug": "brand-management-intern-schwarzkopf-professional-summer-fall-32eea968",
 					"company": "Henkel",
 					"title": "Brand Management Intern, Schwarzkopf Professional – Summer/Fall 2027",
@@ -2222,17 +2607,6 @@
 					"city": "Hartford, CT",
 					"country_code": "US",
 					"work_mode": "Hybrid",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "other"
-				},
-				{
-					"slug": "pharmacy-intern-grad-bd9215c2",
-					"company": "9CVS Pharmacy, Inc.",
-					"title": "Pharmacy Intern - Grad",
-					"city": "Rockville, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
 					"salary": null,
 					"posted": "2026-11-25",
 					"category": "other"
@@ -2357,17 +2731,6 @@
 					"salary": null,
 					"posted": "2026-11-25",
 					"category": "other"
-				},
-				{
-					"slug": "social-media-marketing-strategy-intern-spring-2027-ab7a6a13",
-					"company": "The Walt Disney Company",
-					"title": "Social Media Marketing Strategy Intern, Spring 2027",
-					"city": "Glendale, CA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "marketing"
 				},
 				{
 					"slug": "operations-internship-summer-2027-61c4e623",
@@ -3800,17 +4163,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "c-developer-intern-81ee72f5",
-					"company": "MANTECH",
-					"title": "C++ Developer Intern",
-					"city": "Lexington Park, MD",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-25",
-					"category": "software-engineering"
-				},
-				{
 					"slug": "software-engineer-intern-f65a5e4f",
 					"company": "L3Harris Technologies",
 					"title": "Software Engineer Intern",
@@ -4106,6 +4458,17 @@
 					"salary": null,
 					"posted": "2026-11-25",
 					"category": "hardware-engineering"
+				},
+				{
+					"slug": "corporate-functions-summer-2027-intern-undergraduate-1660521-3d595452",
+					"company": "Centene Management Company LLC",
+					"title": "Corporate Functions Summer 2027 Intern (Undergraduate)",
+					"city": "MO",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "other"
 				},
 				{
 					"slug": "areers-job-dallas-tx-year-round-intern-servicenow-req-4867-1-d68289a4",
@@ -4614,17 +4977,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "student-registered-nurse-intern-08f7ab35",
-					"company": "Ascension",
-					"title": "Student Registered Nurse Intern",
-					"city": "Hoffman Estates, IL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
 					"slug": "energy-storage-operations-co-op-069b4881",
 					"company": "SYSO Inc.",
 					"title": "Energy Storage Operations Co-op",
@@ -4739,6 +5091,17 @@
 					"company": "Clean Harbors",
 					"title": "Compliance Specialist Intern - Summer 2027",
 					"city": "La Porte, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other"
+				},
+				{
+					"slug": "student-registered-nurse-intern-6f9415f8",
+					"company": "Ascension",
+					"title": "Student Registered Nurse Intern",
+					"city": "Hoffman Estates, IL",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -4893,17 +5256,6 @@
 					"company": "Medpace",
 					"title": "Clinical Intelligence Internship - Summer 2027",
 					"city": "Cincinnati, OH",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
-					"slug": "nursing-intern-f9d4710a",
-					"company": "Ascension",
-					"title": "Nursing Intern",
-					"city": "Hoffman Estates, IL",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
@@ -5261,17 +5613,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "engineering-intern-8da467db",
-					"company": "Toole Design Group LLC",
-					"title": "Engineering Intern",
-					"city": "Oakland, CA",
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": "$28 – $36 / hour",
-					"posted": "2026-11-24",
-					"category": "other"
 				},
 				{
 					"slug": "information-technology-intern-enterprise-services-summer-1792cb6e",
@@ -6539,39 +6880,6 @@
 					"category": "hardware-engineering"
 				},
 				{
-					"slug": "manufacturing-engineering-intern-spring-2027-beed0fc2",
-					"company": "RTX",
-					"title": "Manufacturing Engineering Intern (Spring 2027)",
-					"city": "Fort Bliss, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "manufacturing-engineering-intern-summer-2027-a952dc57",
-					"company": "RTX",
-					"title": "Manufacturing Engineering Intern (Summer 2027)",
-					"city": "Highland Industrial Park, AR",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "hardware-engineering"
-				},
-				{
-					"slug": "operations-engineering-intern-summer-2027-0cc4c91b",
-					"company": "RTX",
-					"title": "Operations Engineering Intern (Summer 2027)",
-					"city": "TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "operations"
-				},
-				{
 					"slug": "manufacturing-engineer-intern-b8d95ba6",
 					"company": "Itw",
 					"title": "Manufacturing Engineer Intern",
@@ -7463,17 +7771,6 @@
 					"category": "hardware-engineering"
 				},
 				{
-					"slug": "intern-gn-c-spring-intern-2c396a30",
-					"company": "Amentum",
-					"title": "Intern - GN&C Spring Intern",
-					"city": "Huntsville, AL",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
 					"slug": "electrical-engineering-intern-88341934",
 					"company": "SEL Engineering Services, Inc.",
 					"title": "Electrical Engineering Intern",
@@ -7529,28 +7826,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "2027-software-engineering-intern-colorado-springs-co-19c93160",
-					"company": "Northrop Grumman",
-					"title": "2027 Software Engineering Intern - Colorado Springs CO",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "2027-financial-reporting-intern-mclean-va-b24c8fd0",
-					"company": "Northrop Grumman",
-					"title": "2027 Financial Reporting Intern - McLean VA",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "finance"
-				},
-				{
 					"slug": "2027-computer-systems-intern-linthicum-md-4e76cfc0",
 					"company": "Northrop Grumman",
 					"title": "2027 Computer Systems Intern - Linthicum MD",
@@ -7582,17 +7857,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "hardware-engineering"
-				},
-				{
-					"slug": "2027-guidance-navigation-and-controls-intern-chandler-az-d4c6c9b7",
-					"company": "Northrop Grumman",
-					"title": "2027 Guidance Navigation and Controls Intern - Chandler AZ",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
 				},
 				{
 					"slug": "2027-electronics-engineer-intern-azusa-ca-cf5d8347",
@@ -7763,17 +8027,6 @@
 					"slug": "practice-assistant-i-co-op-78ab60a9",
 					"company": "Massgeneralbrigham",
 					"title": "Practice Assistant I co op",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "other"
-				},
-				{
-					"slug": "pharmacy-intern-p1-8e1400e1",
-					"company": "Massgeneralbrigham",
-					"title": "Pharmacy Intern - P1",
 					"city": null,
 					"country_code": "US",
 					"work_mode": "On-site",
@@ -9300,17 +9553,6 @@
 					"category": "other"
 				},
 				{
-					"slug": "accounting-and-finance-intern-e2e51800",
-					"company": "Banner Health",
-					"title": "Accounting and Finance Intern",
-					"city": "AZ",
-					"country_code": "US",
-					"work_mode": "Remote",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "finance"
-				},
-				{
 					"slug": "hub-international-internship-program-summer-2027-7e4a42d9",
 					"company": "5H4 Hub Southwest, a Division of Hub International Insurance Services Inc.",
 					"title": "HUB International Internship Program Summer 2027",
@@ -10772,251 +11014,225 @@
 					"salary": null,
 					"posted": "2026-11-23",
 					"category": "software-engineering"
-				},
+				}
+			],
+			"closed": [
 				{
-					"slug": "intern-pipeline-technician-s-sioux-city-ne-394530c8",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (S Sioux City, NE)",
-					"city": "South Sioux City, NE",
+					"slug": "it-contracting-intern-6175e8db",
+					"company": "Ascension",
+					"title": "IT Contracting Intern",
+					"city": "Saint Louis, MO",
 					"country_code": "US",
-					"work_mode": "On-site",
+					"work_mode": "Remote",
 					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
+					"posted": "2026-11-25",
+					"category": "other",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "intern-pipeline-technician-garner-ia-0bdd49ce",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Garner, IA)",
-					"city": "Garner, IA",
+					"slug": "branch-operations-intern-1497d447",
+					"company": "Republic Finance",
+					"title": "Branch Operations Intern",
+					"city": "Lancaster, TX",
 					"country_code": "US",
 					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "software-engineering"
+					"salary": "$15",
+					"posted": "2026-11-25",
+					"category": "operations",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "intern-pipeline-technician-cunningham-ks-0b9f1177",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Cunningham, KS)",
-					"city": "Cunningham, KS",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-wrenshall-mn-f4b4e15c",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Wrenshall, MN)",
-					"city": "Wrenshall, MN",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-redfield-ia-ade00f42",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Redfield, IA)",
-					"city": "Redfield, IA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "intern-pipeline-technician-pampa-tx-770dc277",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Pampa, TX)",
-					"city": "Skellytown, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-holcomb-ks-875dbb36",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Holcomb, KS)",
-					"city": "Holcomb, KS",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-sunray-tx-ae1cfab0",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Sunray, TX)",
-					"city": "Sunray, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "construction-safety-intern-summer-2027-a90b4c41",
-					"company": "ARCO Companies",
-					"title": "Construction Safety Intern (Summer 2027)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-macksville-ks-060c8169",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Macksville, KS)",
-					"city": "Macksville, KS",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "investment-strategy-summer-2027-intern-96c91e88",
-					"company": "iCapital",
-					"title": "Investment Strategy - Summer 2027 Intern",
-					"city": "New York City, NY",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "$1.00 – $43.50",
-					"posted": "2026-11-23",
-					"category": "finance"
-				},
-				{
-					"slug": "summer-2027-externship-program-cc05e25a",
-					"company": "Kearney and Co.",
-					"title": "Summer 2027 Externship Program",
-					"city": "Alexandria, VA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-lyons-ks-6e1105b3",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Lyons, KS)",
-					"city": "Lyons, KS",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-beaver-ok-b2a83c03",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Beaver, Ok)",
-					"city": "Andrews, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "intern-pipeline-technician-andrews-tx-c84cbe86",
-					"company": "Berkshire Hathaway Energy",
-					"title": "Intern - Pipeline Technician (Andrews, TX)",
-					"city": "Andrews, TX",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "software-engineering-intern-platform-tooling-d121eaff",
-					"company": "apexanalytix",
-					"title": "Software Engineering Intern, Platform Tooling",
-					"city": "Greensboro, NC",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-23",
-					"category": "software-engineering"
-				},
-				{
-					"slug": "corporate-intern-2d2b0eeb",
-					"company": "Spry Methods",
-					"title": "Corporate Intern",
-					"city": "McLean, VA",
+					"slug": "software-engineer-intern-28882db7",
+					"company": "Coderabbit",
+					"title": "Software Engineer - Intern",
+					"city": "San Francisco, CA",
 					"country_code": "US",
 					"work_mode": "Hybrid",
-					"salary": "$15 – $20 / hour",
-					"posted": "2026-11-23",
-					"category": "other"
+					"salary": "$50 – $55 / hour",
+					"posted": "2026-11-25",
+					"category": "software-engineering",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "general-management-intern-9f1e18a3",
-					"company": "AccorHotel",
-					"title": "General Management Intern",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": "€750",
-					"posted": "2026-11-23",
-					"category": "other"
-				},
-				{
-					"slug": "2027-applied-ai-hr-cdao-summer-associate-cf2c10a7",
-					"company": "Chase",
-					"title": "2027 Applied AI - HR CDAO - Summer Associate",
-					"city": "Jersey City, NJ",
+					"slug": "pharmacy-intern-grad-bd9215c2",
+					"company": "9CVS Pharmacy, Inc.",
+					"title": "Pharmacy Intern - Grad",
+					"city": "Rockville, MD",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
-					"posted": "2026-11-23",
-					"category": "software-engineering"
+					"posted": "2026-11-25",
+					"category": "other",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "2027-applied-ai-hr-cdao-summer-associate-7900fb02",
-					"company": "JPMorgan Chase",
-					"title": "2027 Applied AI - HR CDAO - Summer Associate",
-					"city": "Jersey City, NJ",
+					"slug": "social-media-marketing-strategy-intern-spring-2027-ab7a6a13",
+					"company": "The Walt Disney Company",
+					"title": "Social Media Marketing Strategy Intern, Spring 2027",
+					"city": "Glendale, CA",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
-					"posted": "2026-11-23",
-					"category": "software-engineering"
+					"posted": "2026-11-25",
+					"category": "marketing",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "f-b-operations-intern-3d46f0c4",
-					"company": "AccorHotel",
-					"title": "F&B Operations Intern",
-					"city": null,
+					"slug": "c-developer-intern-81ee72f5",
+					"company": "MANTECH",
+					"title": "C++ Developer Intern",
+					"city": "Lexington Park, MD",
 					"country_code": "US",
 					"work_mode": "On-site",
-					"salary": "€750",
-					"posted": "2026-11-23",
-					"category": "operations"
+					"salary": null,
+					"posted": "2026-11-25",
+					"category": "software-engineering",
+					"closed_at": "2026-11-28"
 				},
 				{
-					"slug": "campus-2027-spring-tax-intern-1691ff83",
-					"company": "Frazier & Deeter",
-					"title": "Campus 2027 Spring Tax Intern",
+					"slug": "student-registered-nurse-intern-08f7ab35",
+					"company": "Ascension",
+					"title": "Student Registered Nurse Intern",
+					"city": "Hoffman Estates, IL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "nursing-intern-f9d4710a",
+					"company": "Ascension",
+					"title": "Nursing Intern",
+					"city": "Hoffman Estates, IL",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "engineering-intern-8da467db",
+					"company": "Toole Design Group LLC",
+					"title": "Engineering Intern",
+					"city": "Oakland, CA",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": "$28 – $36 / hour",
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "manufacturing-engineering-intern-spring-2027-beed0fc2",
+					"company": "RTX",
+					"title": "Manufacturing Engineering Intern (Spring 2027)",
+					"city": "Fort Bliss, TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "hardware-engineering",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "manufacturing-engineering-intern-summer-2027-a952dc57",
+					"company": "RTX",
+					"title": "Manufacturing Engineering Intern (Summer 2027)",
+					"city": "Highland Industrial Park, AR",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "hardware-engineering",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "operations-engineering-intern-summer-2027-0cc4c91b",
+					"company": "RTX",
+					"title": "Operations Engineering Intern (Summer 2027)",
+					"city": "TX",
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "operations",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "intern-gn-c-spring-intern-2c396a30",
+					"company": "Amentum",
+					"title": "Intern - GN&C Spring Intern",
 					"city": "Huntsville, AL",
 					"country_code": "US",
 					"work_mode": "On-site",
 					"salary": null,
-					"posted": "2026-11-23",
-					"category": "finance"
-				}
-			],
-			"closed": [
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "2027-software-engineering-intern-colorado-springs-co-19c93160",
+					"company": "Northrop Grumman",
+					"title": "2027 Software Engineering Intern - Colorado Springs CO",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "software-engineering",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "2027-financial-reporting-intern-mclean-va-b24c8fd0",
+					"company": "Northrop Grumman",
+					"title": "2027 Financial Reporting Intern - McLean VA",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "finance",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "2027-guidance-navigation-and-controls-intern-chandler-az-d4c6c9b7",
+					"company": "Northrop Grumman",
+					"title": "2027 Guidance Navigation and Controls Intern - Chandler AZ",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "pharmacy-intern-p1-8e1400e1",
+					"company": "Massgeneralbrigham",
+					"title": "Pharmacy Intern - P1",
+					"city": null,
+					"country_code": "US",
+					"work_mode": "On-site",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "other",
+					"closed_at": "2026-11-28"
+				},
+				{
+					"slug": "accounting-and-finance-intern-e2e51800",
+					"company": "Banner Health",
+					"title": "Accounting and Finance Intern",
+					"city": "AZ",
+					"country_code": "US",
+					"work_mode": "Remote",
+					"salary": null,
+					"posted": "2026-11-24",
+					"category": "finance",
+					"closed_at": "2026-11-28"
+				},
 				{
 					"slug": "engineering-kettering-co-op-499408d4",
 					"company": "Stellantis",
@@ -11147,18 +11363,6 @@
 					"salary": null,
 					"posted": "2026-11-24",
 					"category": "other",
-					"closed_at": "2026-11-27"
-				},
-				{
-					"slug": "co-op-electrical-engineering-643c284d",
-					"company": "USA - Smith Nephew, Inc.",
-					"title": "Co-Op Electrical Engineering",
-					"city": "Andover, MA",
-					"country_code": "US",
-					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-24",
-					"category": "hardware-engineering",
 					"closed_at": "2026-11-27"
 				},
 				{
@@ -12596,18 +12800,6 @@
 					"city": null,
 					"country_code": "US",
 					"work_mode": "On-site",
-					"salary": null,
-					"posted": "2026-11-20",
-					"category": "other",
-					"closed_at": "2026-11-22"
-				},
-				{
-					"slug": "corporate-functions-summer-2027-intern-undergraduate-1660521-3d595452",
-					"company": "Centene Management Company LLC",
-					"title": "Corporate Functions Summer 2027 Intern (Undergraduate)",
-					"city": null,
-					"country_code": "US",
-					"work_mode": "Remote",
 					"salary": null,
 					"posted": "2026-11-20",
 					"category": "other",

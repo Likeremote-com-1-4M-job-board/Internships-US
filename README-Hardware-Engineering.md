@@ -4,12 +4,13 @@
 
 💻 [Software Engineering](README-Software-Engineering.md) · ⚙️ [Operations & Management](README-Operations-Management.md) · 📣 [Marketing & Content](README-Marketing-Content.md) · 🔧 **Hardware Engineering** · 💰 [Finance & Accounting](README-Finance-Accounting.md) · 🗂 [Other](README-Other.md)
 
-96 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
+95 open internships in this category. Press **Apply** to open the job on likeremote.com. This list updates by itself every 6 hours.
 
 ## 🇺🇸 United States
 
 | Company | Role | Location | Salary | Work mode | Posted | Apply |
 | --- | --- | --- | --- | --- | --- | --- |
+| **USA - Smith<br>Nephew, Inc.** | 🆕 Co-Op Electrical Engineering | 🇺🇸 Andover, MA | — | On-site | Nov 27 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/co-op-electrical-engineering-643c284d?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Digital Control<br>Inc.** | Quality Control Intern | 🇺🇸 Kent, WA | — | On-site | Nov 25 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/quality-control-intern-21541758?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **V2X** | Manufacturing Engineer Intern- Junior | 🇺🇸 Indianapolis, IN | $4 | On-site | Nov 25 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/manufacturing-engineer-intern-junior-f7565282?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Stellantis** | Manufacturing Kettering Co-Op | 🇺🇸 Detroit, MI | — | On-site | Nov 25 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/manufacturing-kettering-co-op-6df73d2a?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
@@ -59,8 +60,6 @@
 | **SharkNinja** | Summer 2027: Firmware Engineering Intern, Advanced Development (May to August) | 🇺🇸 Needham, MA | $27–34 | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/summer-2027-firmware-engineering-intern-advanced-development-68a74357?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **GE India<br>Industrial Pvt Ltd** | 2027 Mechanical Systems Graduate Intern | 🇺🇸 El Segundo, CA | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/2027-mechanical-systems-graduate-intern-c4fe986b?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **RTX** | FPGA Electrical Engineer Intern (Summer 2027) | 🇺🇸 CA | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/fpga-electrical-engineer-intern-summer-2027-3a929a83?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **RTX** | Manufacturing Engineering Intern (Spring 2027) | 🇺🇸 Fort Bliss, TX | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/manufacturing-engineering-intern-spring-2027-beed0fc2?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
-| **RTX** | Manufacturing Engineering Intern (Summer 2027) | 🇺🇸 Highland Industrial Park, AR | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/manufacturing-engineering-intern-summer-2027-a952dc57?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Itw** | Manufacturing Engineer Intern | 🇺🇸 Grand Prairie, TX | — | — | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/manufacturing-engineer-intern-b8d95ba6?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **GE Vernova** | GE Vernova Robotics &amp; Manufacturing Automation Internship - Summer 2027 | 🇺🇸 United States | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/ge-vernova-robotics-manufacturing-automation-internship-8ae54eb4?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **GE Vernova** | GE Vernova MES Implementation &amp; Manufacturing Data Internship - Summer 2027 | 🇺🇸 United States | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/ge-vernova-mes-implementation-manufacturing-data-internship-0159cb2d?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
@@ -93,8 +92,9 @@
 | **Acuity** | Mechanical Design Engineering Intern | 🇺🇸 Decatur, GA | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/mechanical-design-engineering-intern-18c3cf69?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **GF USLLC** | Device Engineering Intern, Silicon Photonics (Summer 2027) | 🇺🇸 New York City, NY | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/device-engineering-intern-silicon-photonics-summer-2027-c396c603?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **HPE** | Firmware Engineering Security Intern | 🇺🇸 Sunnyvale, CA | — | On-site | Nov 24 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/firmware-engineering-intern-fd64a0a9?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
+| **RTX** | Manufacturing Engineering Intern (Spring 2027) | 🇺🇸 Fort Bliss, TX | — | On-site | Nov 24 | 🔒 |
+| **RTX** | Manufacturing Engineering Intern (Summer 2027) | 🇺🇸 Highland Industrial Park, AR | — | On-site | Nov 24 | 🔒 |
 | **Black Decker<br>(U.S.) Inc.** | Engineering Intern, Electronics - Summer 2027 | 🇺🇸 Towson, MD | — | On-site | Nov 24 | 🔒 |
-| **USA - Smith<br>Nephew, Inc.** | Co-Op Electrical Engineering | 🇺🇸 Andover, MA | — | On-site | Nov 24 | 🔒 |
 | **RTX** | Receiver, Exciter &amp; Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite | 🇺🇸 MA | — | On-site | Nov 24 | 🔒 |
 | **Viasat** | Mechanical Engineering Intern | 🇺🇸 Carlsbad, CA | $20.91–56.97 | On-site | Nov 23 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/mechanical-engineering-intern-4a582fc4?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
 | **Johns Hopkins<br>Applied Physics<br>Laboratory** | 2027 Internship - Optical, Electrical, or Computer Engineer - Imaging Systems | 🇺🇸 Laurel, MD | $22.60–47.95 | On-site | Nov 23 | [<img src="assets/apply.svg" alt="Apply" width="118" height="36">](https://likeremote.com/jobs/2027-internship-optical-electrical-or-computer-engineer-752d05fb?utm_source=github&utm_medium=readme&utm_campaign=internships-us) |
